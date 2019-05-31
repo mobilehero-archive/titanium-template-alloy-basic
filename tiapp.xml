@@ -35,16 +35,6 @@
 					<string>UIInterfaceOrientationLandscapeLeft</string>
 					<string>UIInterfaceOrientationLandscapeRight</string>
 				</array>
-				<key>NSCameraUsageDescription</key>
-				<string>Can we use your camera?</string>
-				<key>NSPhotoLibraryUsageDescription</key>
-				<string>Can we save to your library?</string>
-				<key>NSMicrophoneUsageDescription</key>
-				<string>Can we use your microphone?</string>
-				<key>NSAppleMusicUsageDescription</key>
-				<string>Can we use your music library?</string>
-				<key>ITSAppUsesNonExemptEncryption</key>
-				<false />
 				<key>UIRequiresPersistentWiFi</key>
 				<false />
 				<key>UIPrerenderedIcon</key>
