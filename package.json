@@ -1,6 +1,6 @@
 {
 	"name": "@titanium/template-alloy-basic",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "⭐  Axway Amplify template for using Alloy with Appcelerator Titanium SDK",
 	"main": "index.js",
 	"scripts": {
