@@ -1,18 +1,33 @@
-Welcome to your Appcelerator Titanium Mobile Project
-
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
 
 
+[//]: # (header-start)
 
-----------------------------------
-Stuff our legal folk make us say:
+<a href="https://brenton.house/saying-goodbye-to-axway-amplify-titanium-31a44f3671de">
+	<h1 align="center">
+	🪦 RIP Axway Amplify Titanium (2010 - 2022)
+	</h1>
+</a>
+<a href="https://brenton.house/saying-goodbye-to-axway-amplify-titanium-31a44f3671de">
+	<p align="center">
+		<img src="https://cdn.secure-api.org/images/RIP-Axway-Amplify-Titanium.png" alt="RIP Axway Amplify Titanium (2010 - 2022)" width="80%" />
+	</p>
+</a>
+<a href="https://brenton.house/saying-goodbye-to-axway-amplify-titanium-31a44f3671de">
+	<p align="center">
+		🪦 &nbsp; RIP Axway Amplify Titanium (2010 - 2022)
+	</p>
+</a>
+<p>&nbsp;</p>
+<a href="https://brenton.house/saying-goodbye-to-axway-amplify-titanium-31a44f3671de">
+	<h2 align="center">
+		🛑 This project is no longer being maintained 🛑
+	</h2>
+</a>
+<p>&nbsp;</p>
+<hr>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
+[//]: # (header-end)
 
-Titanium is Copyright (c) 2008-2016 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
-
+# @titanium/template-alloy-basic
